@@ -1,151 +1,151 @@
 [[GnuPG]]
 arch = "aarch64"
-git-tree-sha1 = "be8b3487807606e65e91fc630aac01c3c8499c1e"
+git-tree-sha1 = "6cc63132398edaec1631f88dedfd3395537a2e6d"
 os = "macos"
 
     [[GnuPG.download]]
-    sha256 = "2c17982805e86aacdfa7886cd8a46cb548c7e4c6b90f543ac69f1f365e2de19f"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.aarch64-apple-darwin.tar.gz"
+    sha256 = "dd612f1228bc14a43c66006861d0dc3236ed1b8b00d7dcb2406ecf3b4308656a"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.aarch64-apple-darwin.tar.gz"
 [[GnuPG]]
 arch = "aarch64"
-git-tree-sha1 = "881e913ac660310702fc1dcd2b17139fc0759764"
+git-tree-sha1 = "c54a7788878a1d586ae44ffc331ee8baa5be8855"
 libc = "glibc"
 os = "linux"
 
     [[GnuPG.download]]
-    sha256 = "35a8cf0e8c09ab09e089fb41461c4e710456000bb653d4a57e9ea395af7f1e84"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.aarch64-linux-gnu.tar.gz"
+    sha256 = "8041215b99ca7bd019456677ddc51755531dc160906b146109c9dbc2d894d1ae"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.aarch64-linux-gnu.tar.gz"
 [[GnuPG]]
 arch = "aarch64"
-git-tree-sha1 = "74116e2731e7c619630cfc802761b0fba5569a2a"
+git-tree-sha1 = "8aa4443e7275dc643b6ede3e4a6153b5a6517b7f"
 libc = "musl"
 os = "linux"
 
     [[GnuPG.download]]
-    sha256 = "33212c14e4660698a10e671dbd79b0ea4b674e5d4d1b11650c1edc26cb61508c"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.aarch64-linux-musl.tar.gz"
+    sha256 = "c655056dcad23195687066c3c66f421f8fec986202c21b58c7fe06e20b85c2a1"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.aarch64-linux-musl.tar.gz"
 [[GnuPG]]
 arch = "aarch64"
-git-tree-sha1 = "f5a16438934c7d91e255498c7f4debff6530ae7c"
+git-tree-sha1 = "38258a457da5d527c174fdf08a5465d0255b179b"
 os = "freebsd"
 
     [[GnuPG.download]]
-    sha256 = "6a2a7b2865bc7c9c00b5228a16f544d3cd9c4b4b4af116707a0260e72470f368"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "3830c8321de15755207a79151de02afdaad7f4452dba52813bd9dafa7e7a0e2f"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.aarch64-unknown-freebsd.tar.gz"
 [[GnuPG]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "bf22eff07f534d1e7f59004699045edf699af37e"
+git-tree-sha1 = "b4d910a1117aad8cc5a4f8d400758f8e67d86d3b"
 libc = "glibc"
 os = "linux"
 
     [[GnuPG.download]]
-    sha256 = "79961100be255c6ba3975634e85aafbf2f16ad11503358079840766194371a98"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "de6664d383a1d0ab92ea44b7f04b501e57b9a2ea827a5590fe17a94ff336519a"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.armv6l-linux-gnueabihf.tar.gz"
 [[GnuPG]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8c97c3d6718ef1139fb97ef6e764bad02afe2126"
+git-tree-sha1 = "0d38b9f572a93a7f8ed8441b2f016704ff8b5739"
 libc = "musl"
 os = "linux"
 
     [[GnuPG.download]]
-    sha256 = "9d6254287d3a4773bfbbc3d0b11c75a275cb3b2298cc9c9a4a16033805dc7ea4"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "c36fcc8d46d8e2b1a0a1d52e6f21e67c1bed4daefcc2c1381cbd5e75d6580517"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.armv6l-linux-musleabihf.tar.gz"
 [[GnuPG]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "051173a3e9752f660532cf2628e7264b757e9437"
+git-tree-sha1 = "b5a876aeb33900e79ac895469944651de4710030"
 libc = "glibc"
 os = "linux"
 
     [[GnuPG.download]]
-    sha256 = "46cf3a35abcf8badac4d9d2ffb4b2eb1477ce827683f8055f6f969d21d03f783"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "019be6c19c095d90a408f71fa823b19b47c8f6dc04795561ff0e271b60c5d600"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.armv7l-linux-gnueabihf.tar.gz"
 [[GnuPG]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a2bdb518ac7a413559a7a1e4da5708ccfc567a18"
+git-tree-sha1 = "01d6aad5d554f581b3241e27429222456f22e86c"
 libc = "musl"
 os = "linux"
 
     [[GnuPG.download]]
-    sha256 = "79820c3cb5c894cb0abda006b72d548dccdbfcf9f2dbe09c3f6d110494c51121"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "51691f74a722b5207984fefb037697eecfb79e1a747bbe4ec203b73feed5072c"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.armv7l-linux-musleabihf.tar.gz"
 [[GnuPG]]
 arch = "i686"
-git-tree-sha1 = "f38cf2ecc2041f3e13f43d6f175d90b15fc96a27"
+git-tree-sha1 = "10d60bce5f4ddeba08b32f0682bbc8842b2de75e"
 libc = "glibc"
 os = "linux"
 
     [[GnuPG.download]]
-    sha256 = "5185680759ff0a31618c170aa9a83a6b5910cb503a57b072c82f78a513eb8f3f"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.i686-linux-gnu.tar.gz"
+    sha256 = "12ad1545824ac49ae0b57ba21fef2a2e5aff345457379168b676b8e122c890c9"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.i686-linux-gnu.tar.gz"
 [[GnuPG]]
 arch = "i686"
-git-tree-sha1 = "062f17c35c5dae768aaddb73eea86ba56fe04749"
+git-tree-sha1 = "0766d391932534eae93f1c575c3456ccc2bb08a0"
 libc = "musl"
 os = "linux"
 
     [[GnuPG.download]]
-    sha256 = "96b7959efd9c3e91fe755c87c457a9ac505d4f8e0e7fcd87cd538f08bf9a5a0a"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.i686-linux-musl.tar.gz"
+    sha256 = "d0d31d9995fd9cfcbe66879b28f6863c29774d81fe118adb928105b3fdb76e61"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.i686-linux-musl.tar.gz"
 [[GnuPG]]
 arch = "i686"
-git-tree-sha1 = "f828f70c3e6225b7779a6bf213d1da68a532471c"
+git-tree-sha1 = "835916af2d330103d3991b2e0440b1f8fa5b47cc"
 os = "windows"
 
     [[GnuPG.download]]
-    sha256 = "adafeeab180186e9c476b7bb9b54913d2cb61878c6fc543038ce2b5c0c790232"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.i686-w64-mingw32.tar.gz"
+    sha256 = "b4aa4b43be40d4c7523fed0d01bac8698a7f8a5d6a3215d8adf92965463ae12e"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.i686-w64-mingw32.tar.gz"
 [[GnuPG]]
 arch = "powerpc64le"
-git-tree-sha1 = "c5093ccce06fdd1bec8467b00f553d5ec2f3d0f1"
+git-tree-sha1 = "be4b7a90fbcb8ba8d1c523d89a7df04bf2ea9c68"
 libc = "glibc"
 os = "linux"
 
     [[GnuPG.download]]
-    sha256 = "420bf7a0cfc97b40e2440414742ae6413f65b538a0abf05cb709d38c74280ac2"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "d88161ec448cbb8f6969fad51de47e3bba06eb57f8f02ede681cb4a09a761cb0"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.powerpc64le-linux-gnu.tar.gz"
 [[GnuPG]]
 arch = "x86_64"
-git-tree-sha1 = "d1bc30276ae2afdd337b1421106a650ba3ec59d7"
+git-tree-sha1 = "3bddc1208c8035149e208622a9e80152f7beafd2"
 os = "macos"
 
     [[GnuPG.download]]
-    sha256 = "c480aba8432e0fdfdcb27d90ae12674097d92008f3984aec600452a205f373ff"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.x86_64-apple-darwin.tar.gz"
+    sha256 = "a2cd6deba2ec27ec24291866fa59d2d6479204d463daef7588f75c3ba422c11d"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.x86_64-apple-darwin.tar.gz"
 [[GnuPG]]
 arch = "x86_64"
-git-tree-sha1 = "ae51c2a468e31fc8339bc3958067931cabe80c0f"
+git-tree-sha1 = "9a711c4aa728432076bbc257304aeee38f83be59"
 libc = "glibc"
 os = "linux"
 
     [[GnuPG.download]]
-    sha256 = "75ccfab419b6e3b2974c89f1f6b21bdff747b66f50600d3d99154514a7cf1607"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.x86_64-linux-gnu.tar.gz"
+    sha256 = "86f462ef43217347b5f381f718bcd1c129551f7e78d52b4019c1b86a8f682f9d"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.x86_64-linux-gnu.tar.gz"
 [[GnuPG]]
 arch = "x86_64"
-git-tree-sha1 = "6eb7f3aa00a7fd5bc488b4b607a0e7cb44e47f01"
+git-tree-sha1 = "79e7424b0e6be984239b9bdf4e3d7e0620a56f1c"
 libc = "musl"
 os = "linux"
 
     [[GnuPG.download]]
-    sha256 = "81fcf963e6d8f43376bccab9971d2f2e367ea415c6291319eb6c92accce3413c"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.x86_64-linux-musl.tar.gz"
+    sha256 = "1ba18f0fe5ca47d247fc9b7711c84fcffa9c7ca88d7376cdae39bf533105bade"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.x86_64-linux-musl.tar.gz"
 [[GnuPG]]
 arch = "x86_64"
-git-tree-sha1 = "1e829d3b69571cea9ce75771f677f454b49a4ada"
+git-tree-sha1 = "b629d63b270a673bcfb57b72221d16f7538f357c"
 os = "freebsd"
 
     [[GnuPG.download]]
-    sha256 = "3820246cbf5ef69952478d24965dce149f1d68d1199be7cc8510cea6b68fade9"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "06067c78306698eb69ba540daa0b30eb72dbd8d597ff643a570f1d0a9e1ce3ee"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.x86_64-unknown-freebsd.tar.gz"
 [[GnuPG]]
 arch = "x86_64"
-git-tree-sha1 = "78a0d6d1cb4c7c0528b8e095fb7efe931355fb9f"
+git-tree-sha1 = "3a223101b8888220a03780ca720db562b88caf06"
 os = "windows"
 
     [[GnuPG.download]]
-    sha256 = "053dbd01e93868bd362ff38dbfe7b21010301108027a4c560c0c850e7612c18b"
-    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.7+0/GnuPG.v2.4.7.x86_64-w64-mingw32.tar.gz"
+    sha256 = "1b48b2278b574c2182aeb825c58e5a5dcafaeacfe536292738b8abef7d037381"
+    url = "https://github.com/JuliaBinaryWrappers/GnuPG_jll.jl/releases/download/GnuPG-v2.4.8+0/GnuPG.v2.4.8.x86_64-w64-mingw32.tar.gz"

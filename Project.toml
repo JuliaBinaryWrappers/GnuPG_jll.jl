@@ -1,6 +1,6 @@
 name = "GnuPG_jll"
 uuid = "1522389b-45f8-5faa-af4d-a301b79c50ac"
-version = "2.4.7+0"
+version = "2.4.8+0"
 
 [deps]
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
