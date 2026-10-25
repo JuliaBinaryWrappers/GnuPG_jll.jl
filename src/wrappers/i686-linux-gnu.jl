@@ -16,8 +16,8 @@ using Nettle_jll
 JLLWrappers.@generate_wrapper_header("GnuPG")
 JLLWrappers.@declare_executable_product(gpg)
 JLLWrappers.@declare_executable_product(gpg_agent)
-JLLWrappers.@declare_executable_product(gpg_connect_agent)
 JLLWrappers.@declare_executable_product(gpgconf)
+JLLWrappers.@declare_executable_product(gpg_connect_agent)
 JLLWrappers.@declare_executable_product(gpgscm)
 JLLWrappers.@declare_executable_product(gpgsm)
 JLLWrappers.@declare_executable_product(gpgtar)
@@ -36,13 +36,13 @@ function __init__()
     )
 
     JLLWrappers.@init_executable_product(
-        gpg_connect_agent,
-        "bin/gpg-connect-agent",
+        gpgconf,
+        "bin/gpgconf",
     )
 
     JLLWrappers.@init_executable_product(
-        gpgconf,
-        "bin/gpgconf",
+        gpg_connect_agent,
+        "bin/gpg-connect-agent",
     )
 
     JLLWrappers.@init_executable_product(
